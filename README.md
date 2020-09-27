@@ -1,5 +1,5 @@
 # Description
-This cod base includes service for searching the projects on Github based on input query. 
+This cod base includes service for searching the github projects on Github based on input query based on coding language. 
 
 # Pre-requisite
 - Gradle
